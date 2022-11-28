@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00000000-0000-0000-0000-000000000000}") = "bookingrezervarerestaurant", "bookingrezervarerestaurant\bookingrezervarerestaurant.csproj", "{761760DA-79FE-4226-92F8-02509D833860}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A50C5DCC-64FB-47C5-BDEF-CB68A6EFBEF6}"
+	ProjectSection(SolutionItems) = preProject
+		bookingrezervarerestaurant\Client.cs = bookingrezervarerestaurant\Client.cs
+		bookingrezervarerestaurant\Dimensiune.cs = bookingrezervarerestaurant\Dimensiune.cs
+		bookingrezervarerestaurant\Furnizor.cs = bookingrezervarerestaurant\Furnizor.cs
+		bookingrezervarerestaurant\Ingredient.cs = bookingrezervarerestaurant\Ingredient.cs
+		bookingrezervarerestaurant\Masa.cs = bookingrezervarerestaurant\Masa.cs
+		bookingrezervarerestaurant\Persoana.cs = bookingrezervarerestaurant\Persoana.cs
+		bookingrezervarerestaurant\Restaurant.cs = bookingrezervarerestaurant\Restaurant.cs
+		bookingrezervarerestaurant\Reteta.cs = bookingrezervarerestaurant\Reteta.cs
+		bookingrezervarerestaurant\Rezervare.cs = bookingrezervarerestaurant\Rezervare.cs
+		bookingrezervarerestaurant\Scaun.cs = bookingrezervarerestaurant\Scaun.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BC6BA05-0B81-4FF9-92BB-E7582DBD8C50}
+	EndGlobalSection
+EndGlobal
